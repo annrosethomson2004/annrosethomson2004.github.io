@@ -1,0 +1,17 @@
+h1{
+    color: rgb(104, 53, 5);
+    background-color: rgb(223, 172, 105);
+    text-align: center;
+}
+.style{
+    color: black;
+}
+h2{
+    color: rgb(134, 80, 10);
+}
+h1:hover{
+    color: chartreuse;
+}
+h2:hover{
+    color: chartreuse;
+}
